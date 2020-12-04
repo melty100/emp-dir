@@ -1,7 +1,7 @@
 {
   "name": "empdir",
   "version": "0.1.0",
-  "homepage": "https://melty100.github.io/emp-dir",
+  "homepage": "https://melty100.github.io/empdir",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
